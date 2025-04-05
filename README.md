@@ -68,7 +68,7 @@ Use Cases:
 # Legal Note:
 This toolkit is intended for educational and authorized penetration testing only. Unauthorized use against systems without consent is illegal and strictly prohibited.
 
-Output
+# Output
 
 ![Image](https://github.com/user-attachments/assets/b7eb93a3-2935-4726-bb1c-374028678b7a)
 
